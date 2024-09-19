@@ -1,1 +1,1 @@
-# Eq.20_GLO6002_Gestion_De_Clinique
+# Equipe_20_Gestion_de_clinique

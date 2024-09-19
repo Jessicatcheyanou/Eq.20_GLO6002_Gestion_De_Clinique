@@ -1,0 +1,5 @@
+ca\ulaval\glo4002\devoir1\gestion\clinique\Main.class
+ca\ulaval\glo4002\devoir1\gestion\clinique\domaine\clinic\TriageType.class
+ca\ulaval\glo4002\devoir1\gestion\clinique\domaine\patient\Patient.class
+ca\ulaval\glo4002\devoir1\gestion\clinique\domaine\patient\VisibleSymptom.class
+ca\ulaval\glo4002\devoir1\gestion\clinique\domaine\clinic\Clinic.class
